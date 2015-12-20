@@ -1,5 +1,7 @@
 # Flashlight
 
+[![Get it on Google Play](http://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.batkinson.flashlight)
+
 A minimalist flashlight application for Android devices with hardware flashes.
 
 ## Why?
